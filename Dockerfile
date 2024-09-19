@@ -1,4 +1,4 @@
-FROM golang
+FROM anolis-registry.cn-zhangjiakou.cr.aliyuncs.com/openanolis/golang
 
 ADD . /go/src/app
 
